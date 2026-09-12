@@ -1,24 +1,25 @@
 {
   "launcher_update": {
-    "version": "1.0.0",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v1.0.0/Naruto_Launcher_Setup_v1.0.1.exe",
-    "file_size_mb": 61.3,
+    "version": "2.3.0",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v1.0.0/Naruto_Launcher_Setup_v2.3.0.exe",
+    "file_size_mb": 62.3,
     "type": "setup",
     "notes": [
-      "✨ Tối ưu giao diện và hiệu năng Launcher",
-      "⚡ Tự động cập nhật Launcher từ GitHub Releases"
+      "✨ Cập nhật Launcher lên phiên bản v2.3.0",
+      "⚡ Tối ưu hiệu năng, nâng cấp giao diện và hệ thống đếm ngược sự kiện",
+      "🛡️ Tự động cập nhật không làm ảnh hưởng đến dữ liệu game hiện có"
     ],
     "mandatory": false
   },
 
   "viet_hoa_update": {
-    "version": "1.0.0",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v1.0.0/VietHoa_v1.0.0.zip",
+    "version": "2.0.0",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v1.0.0/patch.2.0.0.zip",
     "file_size_mb": 15.5,
     "notes": [
-      "✅ Bản Việt hóa mới nhất từ GitHub Releases",
+      "✅ Bản cập nhật Việt Hóa mới nhất",
       "🎮 Dịch toàn bộ giao diện và kỹ năng nhân vật",
-      "⚡ Sửa lỗi font chữ tiếng Việt có dấu"
+      "⚡ Sửa lỗi hiển thị font chữ tiếng Việt có dấu"
     ]
   },
 
