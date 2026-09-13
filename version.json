@@ -1,13 +1,16 @@
 {
   "launcher_update": {
-    "version": "3.1.0",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/3.1.0/Naruto_Launcher_Setup_v3.1.0.exe",
+    "version": "3.5.0",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/3.5.0/Naruto_Launcher_Setup_v3.5.0.exe",
     "file_size_mb": 62.3,
     "type": "setup",
     "notes": [
-      "✨ Cập nhật Launcher lên phiên bản v2.3.0",
-      "⚡ Tối ưu hiệu năng, nâng cấp giao diện và hệ thống đếm ngược sự kiện",
-      "🛡️ Tự động cập nhật không làm ảnh hưởng đến dữ liệu game hiện có"
+   "🎮 Tích hợp giao diện Grid ô vuông (Tile Grid) 4 tool/hàng cho Trung tâm Tiện Ích",
+      "✨ Tự động trích xuất và hiển thị Icon gốc của từng phần mềm (.exe, .bat, .lnk)",
+      "🚀 Khởi chạy 1-click tiện ích ngoài nhanh chóng & mượt mà",
+      "⚡ Hỗ trợ giữ phím Ctrl chọn cùng lúc nhiều phần mềm để thêm vào Launcher",
+      "🪟 Cho phép kéo giãn mở rộng kích thước cửa sổ Launcher tự do theo 4 hướng & 4 góc",
+      "🔒 Khắc phục triệt để lỗi lưu trữ, ghi nhớ vĩnh viễn danh sách công cụ khi tắt Launcher"
     ],
     "mandatory": false
   },
