@@ -1,16 +1,15 @@
 {
   "launcher_update": {
-    "version": "3.8.0",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/VER4.0.0/Naruto_Launcher_Setup_v3.8.0.exe",
-    "file_size_mb": 62.3,
+    "version": "3.9.0",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v3.9.0/Naruto_Launcher_Setup_v3.9.0.exe",
+    "file_size_mb": 62.4,
     "type": "setup",
     "notes": [
-   "🎮 Tích hợp giao diện Grid ô vuông (Tile Grid) 4 tool/hàng cho Trung tâm Tiện Ích",
-      "✨ Tự động trích xuất và hiển thị Icon gốc của từng phần mềm (.exe, .bat, .lnk)",
-      "🚀 Khởi chạy 1-click tiện ích ngoài nhanh chóng & mượt mà",
-      "⚡ Hỗ trợ giữ phím Ctrl chọn cùng lúc nhiều phần mềm để thêm vào Launcher",
+      "🌐 Tích hợp trực tiếp Web Game (narutodaichien.vercel.app) ngay trên Launcher qua WebView2",
+      "🔐 Đồng bộ hóa đăng nhập Google OAuth SSO mượt mà thông qua URI Scheme và Named Pipe",
+      "⚡ Tối ưu điều hướng, thanh công cụ web và hỗ trợ tham số mở tab nhanh (--tab=gameweb, --tab=wiki)",
       "🪟 Cho phép kéo giãn mở rộng kích thước cửa sổ Launcher tự do theo 4 hướng & 4 góc",
-      "🔒 Khắc phục triệt để lỗi lưu trữ, ghi nhớ vĩnh viễn danh sách công cụ khi tắt Launcher"
+      "🔒 Tối ưu hiệu năng, sửa lỗi khai báo và khởi chạy đa luồng ổn định"
     ],
     "mandatory": false
   },
