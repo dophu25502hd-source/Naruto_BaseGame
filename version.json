@@ -1,18 +1,16 @@
 {
   "launcher_update": {
-    "version": "3.9.2",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v3.9.2/Naruto_Launcher_Setup_v3.9.2.exe",
+    "version": "3.10.0",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v3.10.0/Naruto_Launcher_Setup_v3.10.0.exe",
     "file_size_mb": 62.1,
     "type": "setup",
     "notes": [
-      "🛠 Sửa lỗi cập nhật cài nhầm sang ổ C: nay cập nhật đúng thư mục launcher đang dùng",
-      "📁 Launcher ghi nhớ thư mục game, không còn bị reset về ổ C sau khi cập nhật",
+      "🎮 MỚI: Chơi game ngay trong cửa sổ launcher (tab CHƠI GAME), có thể tách ra cửa sổ riêng bất cứ lúc nào",
+      "🪟 Khung cửa sổ launcher mới: hiển thị ổn định tab Wiki / Web, bo góc và bóng đổ theo Windows",
+      "🛠 Cập nhật launcher đúng thư mục đang dùng, ghi nhớ thư mục game, không còn bị reset về ổ C",
       "⬇ Tải game ổn định hơn: tự thử lại và tải tiếp khi rớt mạng, có nút Huỷ tải, kiểm tra dung lượng ổ trống",
       "🔒 Mã hoá thông tin đăng nhập và cấu hình bằng Windows DPAPI, log không còn lưu token",
-      "🐞 Sửa lỗi theme bị ghi đè, lịch sự kiện không cập nhật, báo sai khi cập nhật Việt Hoá lỗi",
-      "🎮 Chặn mở game 2 lần và chặn cập nhật khi game đang chạy; mở launcher lần 2 sẽ hiện cửa sổ cũ",
-      "⚡ Giảm tải CPU/GPU của hiệu ứng nền, phóng to cửa sổ không che taskbar",
-      "🛡 Gỡ cài đặt an toàn: chỉ xoá các thư mục do launcher tạo ra"
+      "🐞 Sửa nhiều lỗi: theme bị ghi đè, lịch sự kiện không cập nhật, mở game 2 lần, cập nhật khi game đang chạy"
     ],
     "mandatory": false
   },
