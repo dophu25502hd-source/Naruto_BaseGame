@@ -1,10 +1,12 @@
 {
   "launcher_update": {
-    "version": "3.9.1",
-    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v3.9.1/Naruto_Launcher_Setup_v3.9.1.exe",
+    "version": "3.9.2",
+    "download_url": "https://github.com/dophu25502hd-source/Naruto_BaseGame/releases/download/v3.9.2/Naruto_Launcher_Setup_v3.9.2.exe",
     "file_size_mb": 62.1,
     "type": "setup",
     "notes": [
+      "🛠 Sửa lỗi cập nhật cài nhầm sang ổ C: nay cập nhật đúng thư mục launcher đang dùng",
+      "📁 Launcher ghi nhớ thư mục game, không còn bị reset về ổ C sau khi cập nhật",
       "⬇ Tải game ổn định hơn: tự thử lại và tải tiếp khi rớt mạng, có nút Huỷ tải, kiểm tra dung lượng ổ trống",
       "🔒 Mã hoá thông tin đăng nhập và cấu hình bằng Windows DPAPI, log không còn lưu token",
       "🐞 Sửa lỗi theme bị ghi đè, lịch sự kiện không cập nhật, báo sai khi cập nhật Việt Hoá lỗi",
